@@ -1,5 +1,5 @@
 # MachineLearningProject
-Unveiling the Potential of the Random Forest Algorithm
+# Unveiling the Potential of the Random Forest Algorithm
 
 Name: GANESH KUMAR KOKKERA, 700#: 700743028
 
@@ -12,4 +12,3 @@ This exhaustive review provides the foundation for proposing a novel application
 Random Forest has demonstrated exceptional performance in machine learning tasks, but it still needs refinement [18]. This paper analyzes various data set representations and provides a critical analysis of the algorithm's performance, efficiency, and accuracy across a variety of tasks [9, 10]. The study identifies several factors that impact the Random Forest algorithm's performance, including data quality, the presence of anomalies, imbalance in the data set, and the algorithm's sensitivity to these factors [12], [18]. To address these obstacles, the paper suggests possible optimization strategies to improve the robustness of the algorithm [20]. Ultimately, the in-depth analysis of the Random Forest algorithm presented in this study demonstrates its relevance in numerous data science applications [8] and its significance in contemporary research. It also illuminates explorable areas, presenting opportunities for future work to improve the robustness and precision [17].
 
 Please find the explanation video in the following link: https://ucmo0-my.sharepoint.com/:f:/g/personal/gxk30280_ucmo_edu/ErydyghcjvNLuvQhh16uoH4B_VgqilGel2tH59gifO7sPA?e=Bf2rKC
-![image](https://github.com/gxk30280/MachineLearningProject/assets/137007888/e55b7489-5a39-40e2-9366-4048e600fff4)
